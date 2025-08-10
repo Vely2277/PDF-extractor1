@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+pdfminer.six
+pdf2image
+pytesseract
+Pillow
